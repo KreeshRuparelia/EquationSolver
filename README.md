@@ -10,9 +10,9 @@ In order to test out the **Linear Equation Solver** for yourself, you must have 
 installing java, you can download all the files from the repository and open them up (ensure all files are in the
 same folder) using your IDE (Integrated Developement Environment) of choice. Upon opening up the project, go over
 and select the file *EquationCalculator.java* which is the main class and run the file. Running *EquationCalculator.java* 
-will prompt you with the choice to either solve linear equations or quiz your knowledge, you can select either by
-typing **S** to Solve linear equations or, type **Q** to use the quiz feature. To switch between the two, run the 
-file again. 
+will prompt you with the choice to either solve linear equations or quiz your knowledge, you can select either,
+typing **S** allows you to solve linear equations and, typing **Q** allows you to use the quiz feature. To switch between 
+the two, run the file again. 
 
 **Solve (S):**
 If you wish to solve linear equations, there is a sample test cases file available on the repository page to help you
