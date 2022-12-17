@@ -1,0 +1,36 @@
+A FEW DISCLAIMERS:
+
+1. All test cases including "+" also work with "-", a "+" is used to reduce clutter and present a more
+diverse set of test cases without causing clutter.
+
+2. All numbers and 'x' terms are presented as either negative or positive values, however, they work just 
+as well with the the sign switched (unless otherwise specified).
+
+
+Example Test Cases:
+
+x = 5
+x + -5 = 10
+5x = -10
+x/3 = 10
+-5x + 4 = 14
+-x/3 + -1 = 2
+
+(x - 3)/5 = 20
+	- NOTE: Negative x doesn't work in brackets
+
+2(x + 2) = -14
+2/-x = 4
+2(x - -3)/4 = 5
+3/-x = -5/4
+-2x/-3 + 1/-2 = 3/-4
+
+
+SPECIAL CASES:
+
+2x + 4 - 5 + 3x + 5.... = 5
+
+My code is able to handle multiple unknowns and constants as I am able to group like terms
+using for loops and ArrayLists. However, my code can't group unknowns accurately if there is an unknown
+in the denominator or bracket, in which scenario, I can only do the standard of one unknown (but I can still handle
+multiple constants).
