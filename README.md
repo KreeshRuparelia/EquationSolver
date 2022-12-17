@@ -24,3 +24,9 @@ variable is **x** and **x** is only one side (doesn't matter left or right).
 If you wish to quiz your linear equation solving skils, you can use the quiz feature which prompts you with the option
 to solve One Step, Two Step, or Multi-Step equations. After you feel that you are done, you can type **'QUIT'** to exit the
 program.
+
+
+**LOGIC / TECHNICAL ASPECT:**
+Developing this program was a particularly difficult challenge as it was my first time developing a project in Java
+with Object Oriented Programming approach. During the project I was also able to learn about regex, switch cases, array lists,
+and java arrays. 
